@@ -4,7 +4,7 @@
 
 [Instagram](https://www.instagram.com/penetoken)
 
-PeneToken is a MEME Token BEP-20, which wants to become the king of MEMEs, we try to improve daily and we want to grow.
+PeneToken is a MEME Token BEP-20, which wants to become the king of MEMEs, we try to improve daily and want to grow together as a community.
 
 Pene Token BEP-20 Now available in BSC:
 https://bscscan.com/token/0xa74649a7abc253ef3eab251594b1167e57bee3e1
