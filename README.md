@@ -1,6 +1,8 @@
 # PeneToken
 
-Pene Token Now available in BSC:
+PeneToken is a MEME Token BEP-20, which wants to become the king of MEMEs, we try to improve daily and we want to grow.
+
+Pene Token BEP-20 Now available in BSC:
 https://bscscan.com/token/0xa74649a7abc253ef3eab251594b1167e57bee3e1
 
 Contract: 0xa74649a7abc253ef3eab251594b1167e57bee3e1
@@ -8,7 +10,10 @@ Contract: 0xa74649a7abc253ef3eab251594b1167e57bee3e1
 PeneToken Quote:
 https://poocoin.app/tokens/0xa74649a7abc253ef3eab251594b1167e57bee3e1
 
+
 ![PeneToken Image](https://raw.githubusercontent.com/mattiaa95/PeneToken/main/nepe.png)
 
+
+if you want to become a holder and believe in the project contact me!
 
 WhitePapper Coming Soon!
