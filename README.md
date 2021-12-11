@@ -14,6 +14,8 @@ https://poocoin.app/tokens/0xa74649a7abc253ef3eab251594b1167e57bee3e1
 
 if you want to become a holder and believe in the project contact me!
 
+[tokenpene@gmail.com](mailto:tokenpene@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
+
 Buy PENEs:
 https://pancakeswap.finance/swap?outputCurrency=0xa74649a7abc253ef3eab251594b1167e57bee3e1
 
