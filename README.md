@@ -2,6 +2,8 @@
 
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/PeneToken.svg?style=social&label=Follow%20%40PeneToken)](https://twitter.com/PeneToken)
 
+[Instagram](https://www.instagram.com/penetoken)
+
 PeneToken is a MEME Token BEP-20, which wants to become the king of MEMEs, we try to improve daily and we want to grow.
 
 Pene Token BEP-20 Now available in BSC:
