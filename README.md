@@ -1,6 +1,6 @@
 # PeneToken
 
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40bukotsunikki)](https://twitter.com/PeneToken)
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/PeneToken.svg?style=social&label=Follow%20%40PeneToken)](https://twitter.com/PeneToken)
 
 PeneToken is a MEME Token BEP-20, which wants to become the king of MEMEs, we try to improve daily and we want to grow.
 
